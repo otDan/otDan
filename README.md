@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/daniel-ostaszewski-abab49231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ostaszewski-abab49231" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/otdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="otdan" height="30" width="40" /></a>
 <a href="https://instagram.com/dan_osta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan_osta" height="30" width="40" /></a>
-<a href="https://discord.gg/otDan#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="otDan#0001" height="30" width="40" /></a>
+<a href="https://discord.gg/otDan#9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="otDan#9999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
